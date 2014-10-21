@@ -1,0 +1,27 @@
+/*
+Theme Name: caniconsulting
+Layout: Content-Sidebar
+*/
+
+.content-area {
+	float: left;
+	margin-left: -360px;
+	padding-left: 360px;
+	width: 100%;
+	background:#f4f4f4;
+}
+.site-main {
+	
+}
+.site-content .widget-area {
+	float: right;
+	overflow: hidden;
+	width: 360px;
+	padding: 4rem;
+	background:#ffffff;
+	background: hsl(0,0%,100%);
+}
+.site-footer {
+	clear: both;
+	width: 100%;
+}
